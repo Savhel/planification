@@ -1,0 +1,9 @@
+# ninja log v6
+37	186	7525007727706589	CMakeFiles/Planification.dir/main.c.obj	8c48da36125f4ac4
+212	339	7525007729459328	Planification.exe	6536107eb987469d
+44	166	7525007727751532	CMakeFiles/Planification.dir/FCFS.c.obj	e4bdae2ce040043
+52	184	7525007727751532	CMakeFiles/Planification.dir/SJF.c.obj	fb5cc897edd0a8f4
+2	803	7525039149413849	build.ninja	f3a05d9ad618807f
+60	212	7525007727921785	CMakeFiles/Planification.dir/RR.c.obj	b3047555c4bafe25
+67	196	7525007727998412	CMakeFiles/Planification.dir/SRTF.c.obj	98df00073c0efe53
+76	205	7525007728093997	CMakeFiles/Planification.dir/RRP.c.obj	753045a1bb7986ab
